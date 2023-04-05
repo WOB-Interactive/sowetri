@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Al", 
+        "image": "/images/tmp.png",
+        "run_pace": 15, 
+        "bike_pace": 10, 
+        "swim_pace": 150
+    },
+    {
+        "name":"Rosa ", 
+        "image": "/images/tmp2.png",
+        "run_pace": 6, 
+        "bike_pace": 10, 
+        "swim_pace": 150
+    },
+    {
+        "name":"Bert", 
+        "image": "/images/tmp3.png",
+        "run_pace": 8, 
+        "bike_pace": 10, 
+        "swim_pace": 150
+    }
+]

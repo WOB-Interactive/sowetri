@@ -1,6 +1,7 @@
 [
     {
         "name":"Swim > Bike > Run",
+        "icon": "swim_bike_run_icon.png",
         "leg1": "Swim",
         "leg2": "SwimBikeTransition",
         "leg3": "Bike",
@@ -9,6 +10,7 @@
     },
     {
         "name":"Run > Bike > Run",
+        "icon": "run_bike_run_icon.png",
         "leg1": "Run",
         "leg2": "RunBikeTransition",
         "leg3": "Bike",
@@ -17,6 +19,7 @@
     },
     {
         "name":"Swim > Run",
+        "icon": "swim_run_icon.png",
         "leg1": "Swim",
         "leg2": "BikeRunTransition",
         "leg3": "Run",
@@ -25,6 +28,7 @@
     },
     {
         "name":"Bike > Run",
+        "icon": "bike_run_icon.png",
         "leg1": "Bike",
         "leg2": "BikeRunTransition",
         "leg3": "Run",
@@ -33,6 +37,7 @@
     },
     {
         "name":"Bike",
+        "icon": "bike_icon.png",
         "leg1": "Bike",
         "leg2": "",
         "leg3": "",
@@ -41,6 +46,7 @@
     },    
     {
         "name":"Run",
+        "icon": "run_icon.png",
         "leg1": "Run",
         "leg2": "",
         "leg3": "",
@@ -49,6 +55,7 @@
     },    
     {
         "name":"Swim",
+        "icon": "swim_icon.png",
         "leg1": "Swim",
         "leg2": "",
         "leg3": "",

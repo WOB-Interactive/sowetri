@@ -21,7 +21,7 @@
         "name":"Swim > Run",
         "icon": "swim_run_icon.png",
         "leg1": "Swim",
-        "leg2": "BikeRunTransition",
+        "leg2": "SwimRunTransition",
         "leg3": "Run",
         "leg4": "",
         "leg5": ""    

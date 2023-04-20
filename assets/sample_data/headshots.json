@@ -38,5 +38,33 @@
     {
         "name":"Person 10",
         "url":"/assets/images/headshots/tmp5.png"
+    },
+    {
+        "name":"Person 11",
+        "url":"/assets/images/headshots/sd_1.png"
+    },
+    {
+        "name":"Person 12",
+        "url":"/assets/images/headshots/sd_11.png"
+    },
+    {
+        "name":"Person 13",
+        "url":"/assets/images/headshots/sd_12.png"
+    },
+    {
+        "name":"Person 14",
+        "url":"/assets/images/headshots/sd_13.png"
+    },
+    {
+        "name":"Person 15",
+        "url":"/assets/images/headshots/sd_14.png"
+    },
+    {
+        "name":"Person 16",
+        "url":"/assets/images/headshots/sd_15.png"
+    },
+    {
+        "name":"Person 17",
+        "url":"/assets/images/headshots/sd_16.png"
     }
 ]

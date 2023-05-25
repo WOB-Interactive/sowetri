@@ -1,0 +1,292 @@
+[
+{
+"name":"Running shoes",
+"description":"Sneakers or anything you feel comfortable running",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"Shorts",
+"description":"Depending on Weather",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+}, 
+{
+"name":"Running pants",
+"description":"Depending on Weather",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+}, 
+{
+"name":"T-shirt",
+"description":"Depending on Weather",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":0
+}, 
+{
+"name":"tank top",
+"description":"Depending on Weather",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+}, 
+{
+"name":"Sports bra",
+"description":"",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":1
+}, 
+{
+"name":"Water bottle",
+"description":"hyrdation system",
+"type": "equipment",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Sunscreen",
+"description":"For sun protection",
+"type": "equipment",
+"is_run": 1,
+"is_bike": 1,
+"is_swim": 1,
+"is_optional":1
+},
+{
+"name":"Sunglasses",
+"description":" for sun protection",
+"type": "equipment",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Hat",
+"description":" for sun protection",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Visor ",
+"description":" for sun protection",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Towel",
+"description":"",
+"type": "equipment",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Bicycle",
+"description":"suitable for long distance riding ",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"Helmet ",
+"description":"Required for Safety",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"Saddle bag",
+"description":"carry essentials",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"water bottle",
+"description":"",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"repair kit",
+"description":"This should include a patch and glue set, tire lever if necessary",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"tire lever",
+"description":"Used to remove and replace tire",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"Spare inner tube",
+"description":"",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"tire pump",
+"description":"",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Cycling jersey",
+"description":"",
+"type": "clothing",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":0
+},
+{
+"name":"Long sleeve thermal layer under the jersey ",
+"description":"Cold Conditions",
+"type": "clothing",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Rain Gear",
+"description":"",
+"type": "clothing",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Jacket",
+"description":"Wind Jacket, Rain Jacket",
+"type": "clothing",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Rain Poncho",
+"description":"Rain Conditions",
+"type": "clothing",
+"is_run": 0,
+"is_bike": 1,
+"is_swim": 0,
+"is_optional":1
+},
+{
+"name":"Swimsuit",
+"description":"Required to Swim",
+"type": "clothing",
+"is_run": 0,
+"is_bike": 0,
+"is_swim": 1,
+"is_optional":0
+},
+
+{
+"name":"Goggles",
+"description":"Required to Swim",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 0,
+"is_swim": 1,
+"is_optional":0
+},
+{
+"name":"Swim cap",
+"description":" to protect hair from chlorine",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 0,
+"is_swim": 1,
+"is_optional":0
+},
+
+{
+"name":"Fins",
+"description":"Used for Drills",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 0,
+"is_swim": 1,
+"is_optional":1
+},
+{
+"name":"Kickboard",
+"description":"Used for Drills",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 0,
+"is_swim": 1,
+"is_optional":1
+},
+{
+"name":"pull buoy",
+"description":"Used for Drills",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 0,
+"is_swim": 1,
+"is_optional":1
+},
+{
+"name":"Hand Paddles",
+"description":"Used for Drills",
+"type": "equipment",
+"is_run": 0,
+"is_bike": 0,
+"is_swim": 1,
+"is_optional":1
+}
+]

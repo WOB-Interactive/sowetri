@@ -6,7 +6,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Shorts",
@@ -15,7 +16,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 }, 
 {
 "name":"Running pants",
@@ -24,7 +26,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 }, 
 {
 "name":"T-shirt",
@@ -33,7 +36,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 }, 
 {
 "name":"tank top",
@@ -42,7 +46,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 }, 
 {
 "name":"Sports bra",
@@ -51,7 +56,8 @@
 "is_run": 1,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 }, 
 {
 "name":"Water bottle",
@@ -60,7 +66,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Sunscreen",
@@ -69,7 +76,8 @@
 "is_run": 1,
 "is_bike": 1,
 "is_swim": 1,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/sunscreen.png"
 },
 {
 "name":"Sunglasses",
@@ -78,7 +86,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Hat",
@@ -87,7 +96,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Visor ",
@@ -96,7 +106,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Towel",
@@ -105,7 +116,8 @@
 "is_run": 1,
 "is_bike": 0,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Bicycle",
@@ -114,7 +126,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Helmet ",
@@ -123,7 +136,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Saddle bag",
@@ -132,7 +146,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"water bottle",
@@ -141,7 +156,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"repair kit",
@@ -150,7 +166,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"tire lever",
@@ -159,7 +176,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Spare inner tube",
@@ -168,7 +186,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"tire pump",
@@ -177,7 +196,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Cycling jersey",
@@ -186,7 +206,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Long sleeve thermal layer under the jersey ",
@@ -195,7 +216,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Rain Gear",
@@ -204,7 +226,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Jacket",
@@ -213,7 +236,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Rain Poncho",
@@ -222,7 +246,8 @@
 "is_run": 0,
 "is_bike": 1,
 "is_swim": 0,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Swimsuit",
@@ -231,7 +256,8 @@
 "is_run": 0,
 "is_bike": 0,
 "is_swim": 1,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 
 {
@@ -241,7 +267,8 @@
 "is_run": 0,
 "is_bike": 0,
 "is_swim": 1,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Swim cap",
@@ -250,7 +277,8 @@
 "is_run": 0,
 "is_bike": 0,
 "is_swim": 1,
-"is_optional":0
+"is_optional":0,
+"image":"/assets/images/gear/"
 },
 
 {
@@ -260,7 +288,8 @@
 "is_run": 0,
 "is_bike": 0,
 "is_swim": 1,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Kickboard",
@@ -269,7 +298,8 @@
 "is_run": 0,
 "is_bike": 0,
 "is_swim": 1,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"pull buoy",
@@ -278,7 +308,8 @@
 "is_run": 0,
 "is_bike": 0,
 "is_swim": 1,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
 },
 {
 "name":"Hand Paddles",
@@ -287,6 +318,17 @@
 "is_run": 0,
 "is_bike": 0,
 "is_swim": 1,
-"is_optional":1
+"is_optional":1,
+"image":"/assets/images/gear/"
+},
+{
+"name":"Shorts ",
+"description":"Lower Body Clothing",
+"type": "clothing",
+"is_run": 1,
+"is_bike": 0,
+"is_swim": 0,
+"is_optional":0,
+"image":"/assets/images/gear/"
 }
 ]

@@ -96,6 +96,23 @@
         "leg4_display": "",
         "leg5": ""    ,  
         "leg5_display": ""  
+    },{
+        "name":"Race In The Bronx Riviera [Run > Bike > Run > Swim]",
+        "icon": "RACE_icon.png",
+        "leg1": "Run",  
+        "leg1_display": "Run" ,
+        "leg2": "RunBikeTransition",
+        "leg2_display": "Run-Bike Transition",
+        "leg3": "Bike",
+        "leg3_display": "Bike",        
+        "leg4": "BikeRunTransition",
+        "leg4_display": "Bike-Run Transition",
+        "leg5": "Run",  
+        "leg5_display": "Run",
+        "leg6": "RunSwimTransition",
+        "leg6_display": "Run-Swim Transition",
+        "leg7": "Swim",
+        "leg7_display": "Swim"
     }
 
 ]
